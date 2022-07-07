@@ -9,7 +9,9 @@ Through the generation of datasets recording key geometric features of atriums a
 In combination with parametric modeling software like Grasshopper and live connections to machine learning libraries like Tensor Flow through plugins like Hops, a trained and simulated atrium model can provide instant LEED’s score as the atrium is configured by the designer.
 
 
-
+Daylighting for Atriums is a project of IAAC, Institute for Advanced Architecture of Catalonia developed at Master in Advanced Computation for Architecture & Design in 2021/22 by:
 STUDENTS: MICHAL GRYKO + SAMMAR ALLAM 
 SENIOR FACULTY: GABRIELLA ROSSI
 FACULTY ASSISTANT: HESHAM SHAWQY
+
+Blog: https://www.iaacblog.com/programs/daylighting-prediction-atriums-leed-ieq-approach/
